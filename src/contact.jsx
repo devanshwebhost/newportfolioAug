@@ -27,7 +27,7 @@ export default function Contact() {
       message: message + " from this email - " + email,
     };
 
-    emailjs.send('service_mk6gwgd', 'template_z5djnlh', templateParams, 'y3trjdXSeLWj_hckY')
+    emailjs.send('service_fbgznxe', 'template_dz3qrz6', templateParams, 'lhmhDY0VTks_MQE8B')
       .then((response) => {
         // notify();
         setEmail('');
