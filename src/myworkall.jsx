@@ -48,6 +48,14 @@ const Workdataall = [
         "imageLink": "https://editingwalebhaiya.netlify.app",
         "imageId": "card-6-img"
       },
+    {
+        "id": "project-7-para",
+        "title": "X.com",
+        "description": "THis is a clone landing page of x.com i used tailwind css and html to make this UI, This is a responsive web page in future i wil make it functional",
+        "imageBackground": "img-background-7",
+        "imageLink": "https://webhostxcom.netlify.app",
+        "imageId": "card-7-img"
+      },
   ];
   
   export default Workdataall;
