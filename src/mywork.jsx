@@ -19,7 +19,7 @@ const Workdata = [
     {
       "id": "project-3-para",
       "title": "FME",
-      "description": "FME is a media agency this is only a prototype page of the website this project is in under development, only made with javascript functionality and html and usind Bootstrap for styles",
+      "description": "FME is a media agency this is only a prototype page of the website this project is in under development, only made with javascript functionality and html and using Bootstrap for styles",
       "imageBackground": "img-background-3",
       "imageLink": "https://fusionmediaelite.netlify.app",
       "imageId": "card-3-img"
